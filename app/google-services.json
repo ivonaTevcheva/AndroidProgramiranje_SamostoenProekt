@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5172710444",
+    "project_id": "androidp-samostoenproekt",
+    "storage_bucket": "androidp-samostoenproekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5172710444:android:a73bbe7dbc36e5dbb71589",
+        "android_client_info": {
+          "package_name": "com.example.androidprogramiranje_samostoenproekt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxAodE4lRRSzwk6jDMp-bB3R4UQbAQAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
